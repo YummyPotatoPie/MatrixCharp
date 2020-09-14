@@ -1,0 +1,6 @@
+C:\Users\Home-PC\source\repos\MatrixCharp\bin\Debug\MatrixCharp.dll
+C:\Users\Home-PC\source\repos\MatrixCharp\bin\Debug\MatrixCharp.pdb
+C:\Users\Home-PC\source\repos\MatrixCharp\obj\Debug\MatrixCharp.csprojAssemblyReference.cache
+C:\Users\Home-PC\source\repos\MatrixCharp\obj\Debug\MatrixCharp.csproj.CoreCompileInputs.cache
+C:\Users\Home-PC\source\repos\MatrixCharp\obj\Debug\MatrixCharp.dll
+C:\Users\Home-PC\source\repos\MatrixCharp\obj\Debug\MatrixCharp.pdb
